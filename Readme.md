@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pearl</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Code & Tech Enthusiast 🚀 | Building Tomorrow's Digital World Today 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perkypearl&label=Profile%20views&color=0e75b6&style=flat" alt="perkypearl" /> </p>
 
