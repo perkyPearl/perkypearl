@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pearl</h1>
 <h3 align="center">Passionate Code & Tech Enthusiast 🚀 | Building Tomorrow's Digital World Today 😎</h3>
 
-[![](https://komarev.com/ghpvc/?username=perkypearl&color=orange&style=flat&lable=Who%27s+Checking+In&abbreviated=true)](https://visitcount.itsvg.in)
+<span align='left'>[![](https://komarev.com/ghpvc/?username=perkypearl&color=orange&style=flat&lable=Who%27s+Checking+In&abbreviated=true)](https://visitcount.itsvg.in)</span>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/precisepearl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perkypearl) 
