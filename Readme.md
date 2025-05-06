@@ -15,6 +15,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=perkypearl&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=perkypearl)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=perkypearl&color=orange&style=flat&lable=Who%27s+Checking+In&abbreviated=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
