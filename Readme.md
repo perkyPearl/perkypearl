@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pearl</h1>
 <h3 align="center">Passionate Code & Tech Enthusiast 🚀 | Building Tomorrow's Digital World Today 😎</h3>
 
+[![](https://komarev.com/ghpvc/?username=perkypearl&color=orange&style=flat&lable=Who%27s+Checking+In&abbreviated=true)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/precisepearl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perkypearl) 
 
@@ -13,8 +15,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perkypearl&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=perkypearl&color=orange&style=flat&lable=Who%27s+Checking+In&abbreviated=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
