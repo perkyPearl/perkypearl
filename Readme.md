@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pearl</h1>
-<h3 align="center">Passionate Code & Tech Enthusiast 🚀 | Building Tomorrow's Digital World Today 😎</h3>
-
-<span align='right'>[![](https://komarev.com/ghpvc/?username=perkypearl&color=orange&style=flat&lable=Who%27s+Checking+In&abbreviated=true)](https://visitcount.itsvg.in)</span>
 
 <h3 align="center"><code>perkypearl@github ~ $ ./contributions.sh</code></h3>
 
