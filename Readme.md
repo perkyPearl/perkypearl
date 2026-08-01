@@ -5,7 +5,7 @@
 
 <h3 align="center"><code>perkypearl@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Pearl's GitHub contribution graph" />
 
 <h3 align="center"><code>perkypearl@github ~ $ cat Skills.txt</code></h3>
 
