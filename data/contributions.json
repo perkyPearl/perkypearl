@@ -1,22 +1,22 @@
 {
   "username": "perkypearl",
-  "generated_at": "2026-08-30T11:53:58Z",
+  "generated_at": "2026-08-31T13:48:37Z",
   "range": {
     "start": "2025-08-31",
-    "end": "2026-08-30"
+    "end": "2026-08-31"
   },
-  "total_contributions": 66,
-  "active_days": 43,
+  "total_contributions": 67,
+  "active_days": 44,
   "avg_per_active_day": 1.5,
   "current_streak": {
-    "length": 29,
+    "length": 30,
     "start": "2026-08-01",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "longest_streak": {
-    "length": 29,
+    "length": 30,
     "start": "2026-08-01",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-08-02",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 38
+      "total": 39
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
